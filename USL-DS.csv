@@ -1,0 +1,848 @@
+Cases,Deaths,Recovered,Province
+1,0,0,Islamabad Capital Territory
+2,0,0,Sindh
+1,0,0,Islamabad Capital Territory
+1,0,0,Sindh
+1,0,0,Gilgit-Baltistan
+0,0,1,Sindh
+1,0,0,Sindh
+6,0,0,Sindh
+3,0,0,Sindh
+1,0,0,Sindh
+1,0,0,Sindh
+1,0,0,Baluchistan
+1,0,0,Gilgit-Baltistan
+0,0,1,Sindh
+1,0,0,Gilgit-Baltistan
+1,0,0,Islamabad Capital Territory
+1,0,1,Sindh
+7,0,0,Baluchistan
+13,0,0,Sindh
+4,0,0,Sindh
+1,0,0,Punjab
+15,0,0,Khyber Pakhtunkhwa
+1,1,0,Khyber Pakhtunkhwa
+119,0,0,Sindh
+26,0,0,Sindh
+2,0,0,Sindh
+1,0,0,Punjab
+1,0,1,Islamabad Capital Territory
+1,0,0,khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+15,0,0,Punjab
+24,0,0,Sindh
+5,0,0,Sindh
+3,0,0,Punjab
+1,0,0,khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+2,0,0,Baluchistan
+1,0,0,Islamabad Capital Territory
+2,0,0,Islamabad Capital Territory
+5,0,0,Punjab
+31,0,0,Sindh
+5,0,0,Sindh
+10,0,0,Gilgit-Baltistan
+1,0,0,Khyber Pakhtunkhwa
+1,1,0,Khyber Pakhtunkhwa
+1,1,0,Khyber Pakhtunkhwa
+1,0,0,Azad Jummu Kashmir
+1,0,0,Punjab
+8,0,0,Punjab
+44,0,0,Punjab
+37,0,1,Sindh
+53,0,0,Baluchistan
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+4,0,0,Gilgit-Baltistan
+4,0,0,Gilgit-Baltistan
+5,0,0,Baluchistan
+4,1,0,Sindh
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+1,0,0,Punjab
+1,0,0,Punjab
+3,0,0,Punjab
+2,0,0,Punjab
+7,0,0,Punjab
+1,0,0,Gilgit-Baltistan
+8,0,0,Gilgit-Baltistan
+16,0,0,Sindh
+3,0,0,Islamabad Capital Territory
+12,0,0,Baluchistan
+39,0,0,Sindh
+0,0,3,Sindh
+25,0,0,Gilgit-Baltistan
+6,0,0,Punjab
+38,0,0,Punjab
+1,0,0,Punjab
+4,0,0,Punjab
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+4,0,0,Gilgit-Baltistan
+18,0,0,Sindh
+23,0,0,Sindh
+1,0,0,Islamabad Capital Territory
+15,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+43,0,0,Punjab
+4,1,0,Baluchistan
+7,0,0,Sindh
+11,0,0,Sindh
+1,0,0,Sindh
+5,0,0,Baluchistan
+16,1,0,Gilgit-Baltistan
+25,0,0,Punjab
+16,0,0,Punjab
+1,0,0,Khyber Pakhtunkhwa
+8,0,6,Sindh
+8,0,0,Sindh
+3,0,10,Sindh
+5,0,0,Gilgit-Baltistan
+37,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+2,0,0,Khyber Pakhtunkhwa
+2,0,0,Baluchistan
+7,0,0,Punjab
+1,0,0,Punjab
+9,0,0,Punjab
+3,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+3,0,0,Sindh
+21,1,2,Punjab
+5,0,0,Islamabad Capital Territory
+3,0,0,Sindh
+0,0,1,Sindh
+9,0,0,Baluchistan
+1,0,0,Gilgit-Baltistan
+39,0,2,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+9,0,0,Punjab
+1,0,0,Punjab
+2,1,0,Punjab
+18,0,1,Punjab
+1,0,0,Punjab
+12,0,0,Baluchistan
+7,0,0,Gilgit-Baltistan
+1,0,0,Gilgit-Baltistan
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Azad Jummu Kashmir
+5,0,0,Islamabad Capital Territory
+9,0,0,Sindh
+6,0,2,Khyber Pakhtunkhwa
+12,0,0,Baluchistan
+7,0,2,Gilgit-Baltistan
+26,0,1,Punjab
+16,0,0,Punjab
+1,0,0,Punjab
+16,0,0,Punjab
+12,0,0,Punjab
+2,0,0,Punjab
+2,0,0,Punjab
+2,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+7,1,0,Punjab
+2,0,0,Islamabad Capital Territory
+11,0,1,Gilgit-Baltistan
+5,0,0,Gilgit-Baltistan
+7,0,0,Sindh
+4,0,1,Sindh
+7,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+34,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+2,0,0,Punjab
+2,0,0,Punjab
+30,2,1,Punjab
+0,0,2,Baluchistan
+1,0,0,Punjab
+1,1,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+1,0,0,Punjab
+1,0,0,Punjab
+2,0,0,Punjab
+1,0,0,Punjab
+26,0,0,Punjab
+14,0,0,Punjab
+4,0,0,Punjab
+10,0,0,Punjab
+5,0,0,Punjab
+2,0,0,Punjab
+29,0,0,Punjab
+5,0,0,Punjab
+21,0,0,Punjab
+12,0,0,Islamabad Capital Territory
+25,1,0,Sindh
+4,0,0,Sindh
+5,0,0,Baluchistan
+8,0,1,Gilgit-Baltistan
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+4,0,1,Islamabad Capital Territory
+0,0,3,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+3,0,0,Punjab
+7,0,0,Punjab
+1,0,0,Punjab
+11,0,0,Punjab
+5,0,0,Punjab
+1,1,0,Punjab
+4,0,0,Azad Jummu Kashmir
+33,2,3,Sindh
+0,1,0,Gilgit-Baltistan
+5,0,0,Gilgit-Baltistan
+2,0,0,Gilgit-Baltistan
+3,0,0,Gilgit-Baltistan
+2,0,0,Gilgit-Baltistan
+1,1,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,1,0,Khyber Pakhtunkhwa
+8,0,1,Islamabad Capital Territory
+11,0,1,Punjab
+14,0,0,Punjab
+8,0,0,Punjab
+26,0,1,Punjab
+21,4,2,Sindh
+6,0,23,Sindh
+6,0,0,Baluchistan
+18,0,4,Gilgit-Baltistan
+1,0,0,Federal Administration Tribal Area
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+16,0,0,Khyber Pakhtunkhwa
+7,0,0,Islamabad Capital Territory
+0,3,0,Punjab
+14,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+5,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+16,0,0,Sindh
+0,0,10,Sindh
+94,0,0,Sindh
+1,0,0,Sindh
+14,0,17,Baluchistan
+37,0,0,Gilgit-Baltistan
+0,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+10,0,0,Khyber Pakhtunkhwa
+1,0,5,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+4,1,10,Khyber Pakhtunkhwa
+10,0,0,Khyber Pakhtunkhwa
+13,0,0,Islamabad Capital Territory
+2,0,0,Azad Jummu Kashmir
+1,0,0,Azad Jummu Kashmir
+1,1,0,Khyber Pakhtunkhwa
+1,1,0,Khyber Pakhtunkhwa
+0,0,2,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+1,0,0,Khyber Pakhtunkhwa
+2,0,0,Federal Administration Tribal Area
+2,0,0,Khyber Pakhtunkhwa
+7,0,10,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+33,1,3,Sindh
+2,0,0,Punjab
+48,0,0,Punjab
+7,1,0,Punjab
+6,0,0,Baluchistan
+28,0,0,Punjab
+2,0,0,Punjab
+1,0,0,Punjab
+8,0,0,Punjab
+1,0,0,Punjab
+2,0,0,Punjab
+16,0,0,Punjab
+63,0,0,Punjab
+27,0,0,Punjab
+3,0,0,Punjab
+3,1,0,Gilgit-Baltistan
+32,1,9,Sindh
+0,1,0,Sindh
+0,0,2,Sindh
+21,1,0,Punjab
+4,0,0,Islamabad Capital Territory
+5,0,0,Baluchistan
+1,1,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+5,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+6,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+17,0,0,Khyber Pakhtunkhwa
+1,0,3,Khyber Pakhtunkhwa
+1,0,0,Punjab
+2,0,0,Punjab
+10,0,0,Punjab
+6,0,0,Punjab
+6,0,0,Punjab
+27,0,0,Punjab
+2,0,0,Punjab
+1,0,1,Gilgit-Baltistan
+1,0,0,Gilgit-Baltistan
+1,0,0,Gilgit-Baltistan
+6,0,0,Islamabad Capital Territory
+40,3,0,Sindh
+4,0,0,Khyber Pakhtunkhwa
+6,0,0,Baluchistan
+6,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+8,0,0,Khyber Pakhtunkhwa
+2,1,0,Khyber Pakhtunkhwa
+10,1,0,Khyber Pakhtunkhwa
+11,0,0,Punjab
+5,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+2,0,0,Punjab
+1,0,0,Punjab
+2,0,0,Punjab
+1,0,0,Punjab
+11,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+12,0,0,Punjab
+3,0,0,Punjab
+100,0,0,Punjab
+7,0,0,Islamabad Capital Territory
+6,3,0,Khyber Pakhtunkhwa
+30,1,0,Punjab
+4,0,0,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+3,0,0,Federal Administration Tribal Area
+4,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+2,0,1,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+0,0,12,Sindh
+10,0,0,Baluchistan
+0,0,3,Khyber Pakhtunkhwa
+3,0,0,Azad Jummu Kashmir
+0,0,5,Gilgit-Baltistan
+0,0,9,Gilgit-Baltistan
+0,0,3,Gilgit-Baltistan
+3,0,0,Islamabad Capital Territory
+4,2,0,Khyber Pakhtunkhwa
+7,0,0,Khyber Pakhtunkhwa
+6,0,0,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+5,0,0,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+0,0,2,Khyber Pakhtunkhwa
+4,0,4,Khyber Pakhtunkhwa
+3,0,9,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+0,0,1,Federal Administration Tribal Area
+0,0,1,Federal Administration Tribal Area
+41,1,0,Sindh
+2,0,0,Azad Jummu Kashmir
+6,0,13,Baluchistan
+17,0,7,Gilgit-Baltistan
+31,0,0,Punjab
+0,0,0,Punjab
+47,0,0,Punjab
+0,0,2,Gilgit-Baltistan
+0,0,1,Gilgit-Baltistan
+51,2,0,Sindh
+0,0,130,Sindh
+3,0,31,Baluchistan
+20,3,0,Punjab
+77,0,0,Punjab
+1,0,0,Gilgit-Baltistan
+0,0,11,Gilgit-Baltistan
+1,0,0,Azad Jummu Kashmir
+1,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+6,0,1,Khyber Pakhtunkhwa
+14,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+15,0,1,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+9,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+24,0,0,Khyber Pakhtunkhwa
+2,0,1,Khyber Pakhtunkhwa
+7,0,0,Khyber Pakhtunkhwa
+3,0,0,Federal Administration Tribal Area
+1,1,0,Islamabad Capital Territory
+0,0,0,Punjab
+54,1,16,Sindh
+11,0,27,Sindh
+12,0,3,Baluchistan
+0,0,28,Gilgit-Baltistan
+1,0,2,Gilgit-Baltistan
+0,0,1,Khyber Pakhtunkhwa
+7,1,4,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+1,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+0,0,1,Federal Administration Tribal Area
+3,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+3,0,0,Azad Jummu Kashmir
+49,2,0,Punjab
+2,0,0,Punjab
+3,0,0,Punjab
+1,0,0,Punjab
+15,0,0,Punjab
+8,0,0,Punjab
+12,0,0,Punjab
+7,0,0,Punjab
+1,0,0,Punjab
+7,0,0,Punjab
+4,0,0,Punjab
+0,0,2,Punjab
+0,0,4,Punjab
+17,0,0,Punjab
+6,0,0,Punjab
+13,0,0,Punjab
+1,0,0,Punjab
+0,0,6,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+8,0,0,Punjab
+1,0,0,Punjab
+2,0,0,Punjab
+50,1,1,Sindh
+6,0,0,Sindh
+2,0,0,Sindh
+1,0,0,Sindh
+7,0,0,Sindh
+4,0,0,Sindh
+1,0,0,Sindh
+1,0,0,Sindh
+12,0,0,Sindh
+2,0,0,Sindh
+42,1,0,Sindh
+0,0,18,Sindh
+8,1,10,Baluchistan
+1,0,20,Gilgit-Baltistan
+0,0,0,Khyber Pakhtunkhwa
+0,1,0,Khyber Pakhtunkhwa
+2,1,0,Khyber Pakhtunkhwa
+12,0,1,Khyber Pakhtunkhwa
+3,0,1,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+2,0,0,Federal Administration Tribal Area
+4,0,0,Federal Administration Tribal Area
+5,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+0,0,48,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+10,0,0,Azad Jummu Kashmir
+35,0,7,Islamabad Capital Territory
+0,0,5,Punjab
+213,1,0,Punjab
+18,0,0,Punjab
+366,0,0,Punjab
+12,0,0,Punjab
+0,0,18,Sindh
+92,1,0,Sindh
+0,0,69,Sindh
+7,0,0,Baluchistan
+2,0,0,Gilgit-Baltistan
+3,0,0,Khyber Pakhtunkhwa
+6,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+10,0,0,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+6,1,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+15,1,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+7,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+5,0,0,Azad Jummu Kashmir
+23,0,0,Punjab
+1,0,0,Punjab
+0,0,1,Punjab
+0,0,1,Punjab
+1,0,0,Punjab
+4,0,0,Punjab
+6,0,0,Punjab
+0,0,7,Punjab
+0,0,1,Punjab
+2,0,0,Punjab
+17,0,0,Punjab
+2,0,0,Punjab
+1,0,0,Punjab
+8,0,0,Punjab
+0,0,4,Punjab
+6,0,0,Punjab
+2,0,0,Punjab
+2,0,0,Punjab
+8,0,0,Punjab
+2,0,0,Punjab
+85,1,9,Sindh
+1,0,0,Sindh
+1,0,13,Baluchistan
+0,0,14,Gilgit-Baltistan
+0,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+3,0,3,Federal Administration Tribal Area
+5,0,0,Khyber Pakhtunkhwa
+4,0,1,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+0,1,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,1,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+2,0,1,Khyber Pakhtunkhwa
+2,1,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+8,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+2,1,2,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+0,0,2,Khyber Pakhtunkhwa
+0,0,0,Azad Jummu Kashmir
+10,0,0,Punjab
+1,0,0,Punjab
+0,0,5,Punjab
+7,0,0,Punjab
+1,0,10,Gilgit-Baltistan
+0,0,11,Gilgit-Baltistan
+1,0,0,Azad Jummu Kashmir
+8,0,6,Baluchistan
+5,4,1,Khyber Pakhtunkhwa
+5,1,0,Khyber Pakhtunkhwa
+3,1,0,Khyber Pakhtunkhwa
+1,0,4,Khyber Pakhtunkhwa
+5,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+6,0,0,Khyber Pakhtunkhwa
+6,0,0,Khyber Pakhtunkhwa
+5,0,0,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+2,0,2,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+84,6,0,Sindh
+3,0,0,Sindh
+17,0,0,Sindh
+29,3,0,Punjab
+1,0,0,Punjab
+30,0,0,Punjab
+7,0,0,Punjab
+5,0,0,Punjab
+3,0,0,Punjab
+16,0,0,Punjab
+0,0,2,Punjab
+47,0,0,Punjab
+1,0,3,Islamabad Capital Territory
+79,2,18,Sindh
+14,0,0,Sindh
+9,1,0,Khyber Pakhtunkhwa
+2,1,0,Khyber Pakhtunkhwa
+0,1,0,Khyber Pakhtunkhwa
+6,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+2,0,0,Federal Administration Tribal Area
+3,0,0,Khyber Pakhtunkhwa
+10,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+2,0,1,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+0,0,2,Federal Administration Tribal Area
+8,0,0,Baluchistan
+6,0,1,Azad Jummu Kashmir
+32,2,25,Punjab
+19,0,0,Punjab
+0,0,175,Punjab
+6,0,0,Punjab
+2,0,0,Punjab
+3,0,0,Punjab
+19,0,0,Punjab
+6,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+12,0,0,Islamabad Capital Territory
+9,0,0,Punjab
+0,1,0,Punjab
+0,0,233,Punjab
+60,0,0,Punjab
+39,1,30,Sindh
+1,0,0,Sindh
+1,0,0,Sindh
+0,1,0,Khyber Pakhtunkhwa
+1,1,1,Khyber Pakhtunkhwa
+5,0,0,Khyber Pakhtunkhwa
+3,0,2,Khyber Pakhtunkhwa
+9,0,0,Federal Administration Tribal Area
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+1,0,0,Khyber Pakhtunkhwa
+31,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+0,0,0,Khyber Pakhtunkhwa
+0,0,2,Khyber Pakhtunkhwa
+0,0,1,Federal Administration Tribal Area
+0,0,1,Khyber Pakhtunkhwa
+3,0,0,Azad Jummu Kashmir
+1,0,0,Baluchistan
+10,0,6,Gilgit-Baltistan
+0,0,5,Gilgit-Baltistan
+0,0,11,Gilgit-Baltistan
+0,0,2,Gilgit-Baltistan
+17,0,0,Baluchistan
+66,3,0,Sindh
+0,1,3,Sindh
+0,0,1,Sindh
+22,3,0,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+5,0,0,Khyber Pakhtunkhwa
+7,0,1,Khyber Pakhtunkhwa
+4,0,2,Khyber Pakhtunkhwa
+11,0,7,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+1,0,5,Khyber Pakhtunkhwa
+4,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,0,Federal Administration Tribal Area
+0,0,3,Khyber Pakhtunkhwa
+0,0,3,Khyber Pakhtunkhwa
+0,0,4,Khyber Pakhtunkhwa
+0,0,3,Khyber Pakhtunkhwa
+35,4,0,Punjab
+45,0,0,Punjab
+13,0,0,Punjab
+44,0,0,Punjab
+2,0,0,Punjab
+22,0,0,Punjab
+7,0,0,Punjab
+11,0,0,Punjab
+8,0,0,Punjab
+15,0,0,Punjab
+5,0,0,Punjab
+36,0,0,Punjab
+7,0,0,Punjab
+9,0,0,Punjab
+22,0,0,Punjab
+5,0,0,Punjab
+35,0,0,Punjab
+52,0,0,Punjab
+2,0,0,Punjab
+47,0,0,Punjab
+2,0,0,Punjab
+11,0,0,Punjab
+2,0,0,Punjab
+8,0,0,Punjab
+1,0,0,Punjab
+14,0,0,Punjab
+10,0,0,Punjab
+9,0,0,Islamabad Capital Territory
+3,0,0,Azad Jummu Kashmir
+0,0,19,Gilgit-Baltistan
+3,0,0,Gilgit-Baltistan
+2,0,0,Gilgit-Baltistan
+6,0,2,Gilgit-Baltistan
+0,0,1,Gilgit-Baltistan
+33,1,13,Baluchistan
+1,0,0,Sindh
+7,0,0,Sindh
+28,0,0,Sindh
+20,0,104,Sindh
+94,5,27,Sindh
+0,1,0,Sindh
+38,4,0,Khyber Pakhtunkhwa
+0,0,3,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+7,0,0,Khyber Pakhtunkhwa
+1,0,1,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+1,0,3,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+0,0,2,Khyber Pakhtunkhwa
+0,0,1,Federal Administration Tribal Area
+0,0,2,Khyber Pakhtunkhwa
+0,0,1,Khyber Pakhtunkhwa
+20,0,0,Punjab
+10,0,0,Punjab
+0,0,28,Punjab
+0,0,1,Punjab
+24,0,0,Punjab
+3,0,0,Punjab
+1,0,0,Punjab
+7,0,0,Punjab
+21,0,0,Punjab
+10,0,0,Punjab
+9,0,0,Punjab
+4,0,0,Punjab
+24,2,59,Baluchistan
+5,0,0,Islamabad Capital Territory
+22,2,1,Khyber Pakhtunkhwa
+1,1,4,Khyber Pakhtunkhwa
+7,0,0,Khyber Pakhtunkhwa
+2,0,0,Khyber Pakhtunkhwa
+3,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+2,0,3,Khyber Pakhtunkhwa
+2,0,0,Federal Administration Tribal Area
+4,0,0,Khyber Pakhtunkhwa
+5,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+1,0,0,Khyber Pakhtunkhwa
+7,0,0,Khyber Pakhtunkhwa
+0,0,1,Federal Administration Tribal Area
+0,0,2,Khyber Pakhtunkhwa
+0,0,3,Khyber Pakhtunkhwa
+8,0,6,Gilgit-Baltistan
+0,7,112,Punjab
+24,0,0,Punjab
+8,0,0,Punjab
+1,0,0,Punjab
+21,0,0,Punjab
+86,0,0,Punjab
+3,0,0,Punjab
+3,0,0,Punjab
+48,0,0,Punjab
+4,0,0,Punjab
+1,0,0,Punjab
+10,0,0,Punjab
+21,0,0,Punjab
+70,4,16,Sindh
+1,0,0,Sindh
+10,0,0,Sindh
+3,0,0,Sindh
+73,0,0,Sindh
+52,0,0,Sindh
+96,0,0,Sindh
+4,0,0,Sindh
+1,0,0,Sindh
+12,0,0,Sindh
+5,0,0,Sindh
+3,0,0,Sindh
+2,0,0,Sindh
+2,0,0,Sindh
+53,0,0,Sindh
+9,0,0,Islamabad Capital Territory
+123,2,3,Sindh
+0,0,2,Sindh
+1,0,0,Sindh
+1,0,0,Sindh
+2,0,0,Sindh
+1,0,0,Sindh
+6,0,0,Sindh
+28,0,0,Sindh
+73,0,0,Sindh
+1,0,0,Sindh
+2,0,0,Azad Jummu Kashmir
+5,0,9,Gilgit-Baltistan
+6,0,0,Baluchistan
+41,0,0,Baluchistan
+24,2,0,Punjab
+20,0,0,Punjab
+10,0,0,Punjab
+9,0,0,Punjab
+4,0,0,Punjab
+8,0,0,Punjab
+20,0,0,Punjab
+3,0,0,Punjab
+4,0,0,Punjab
+95,0,0,Punjab
+9,0,0,Punjab
+2,0,0,Punjab
+1,0,0,Punjab
+4,0,0,Punjab
+9,1,2,Islamabad Capital Territory
+138,1,11,Sindh
+0,0,273,Sindh
+84,5,0,Khyber Pakhtunkhwa
+7,0,1,Gilgit-Baltistan
+8,0,0,Baluchistan
+2,0,25,Punjab
+5,4,0,Punjab
+2,0,0,Punjab
+7,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+1,0,0,Punjab
+8,0,0,Islamabad Capital Territory
+0,0,29,Punjab
+182,8,0,Sindh
+1,0,0,Azad Jummu Kashmir
+6,0,1,Gilgit-Baltistan
+60,10,0,Khyber Pakhtunkhwa
+56,0,0,Baluchistan
+3,0,0,Punjab
+36,0,0,Punjab
+3,0,0,Punjab
+0,0,4,Punjab
+15,0,0,Punjab
+32,0,0,Punjab
+1,0,0,Punjab
+2,0,0,Punjab
+29,0,0,Punjab
+13,0,0,Punjab
+1,0,0,Punjab
+23,0,0,Punjab
+0,0,1,Punjab
+7,0,0,Punjab
+0,0,4,Punjab
+76,0,0,Punjab
+5,0,0,Punjab
+5,0,0,Punjab
+3,0,0,Punjab
+1,0,0,Punjab

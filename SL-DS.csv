@@ -1,0 +1,848 @@
+Cases,Deaths,Recovered,Travel_history,Province
+1,0,0,China,Islamabad Capital Territory
+2,0,0,Iran/Taftan,Sindh
+1,0,0,China,Islamabad Capital Territory
+1,0,0,Iran/Taftan,Sindh
+1,0,0,Iran/Taftan,Gilgit-Baltistan
+0,0,1,Unknown,Sindh
+1,0,0,Iran/Taftan,Sindh
+6,0,0,Syria,Sindh
+3,0,0,UK,Sindh
+1,0,0,Iran/Taftan,Sindh
+1,0,0,Syria,Sindh
+1,0,0,Iran/Taftan,Baluchistan
+1,0,0,Iran/Taftan,Gilgit-Baltistan
+0,0,1,Iran/Taftan,Sindh
+1,0,0,Local - Social Contact,Gilgit-Baltistan
+1,0,0,USA,Islamabad Capital Territory
+1,0,1,Local - Social Contact,Sindh
+7,0,0,Iran/Taftan,Baluchistan
+13,0,0,Iran/Taftan,Sindh
+4,0,0,Iran/Taftan,Sindh
+1,0,0,UK,Punjab
+15,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+1,1,0,Unknown,Khyber Pakhtunkhwa
+119,0,0,Iran/Taftan,Sindh
+26,0,0,Iran/Taftan,Sindh
+2,0,0,Iran/Taftan,Sindh
+1,0,0,Unknown,Punjab
+1,0,1,Unknown,Islamabad Capital Territory
+1,0,0,Unknown,khyber Pakhtunkhwa
+1,0,0,Unknown,Khyber Pakhtunkhwa
+15,0,0,Iran/Taftan,Punjab
+24,0,0,Iran/Taftan,Sindh
+5,0,0,KSA,Sindh
+3,0,0,Unknown,Punjab
+1,0,0,Unknown,khyber Pakhtunkhwa
+1,0,0,UK,Khyber Pakhtunkhwa
+2,0,0,Iran/Taftan,Baluchistan
+1,0,0,Unknown,Islamabad Capital Territory
+2,0,0,Unknown,Islamabad Capital Territory
+5,0,0,Iran/Taftan,Punjab
+31,0,0,Iran/Taftan,Sindh
+5,0,0,Local - Social Contact,Sindh
+10,0,0,Unknown,Gilgit-Baltistan
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,1,0,KSA,Khyber Pakhtunkhwa
+1,1,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Iran/Taftan,Azad Jummu Kashmir
+1,0,0,Local - Social Contact,Punjab
+8,0,0,Unknown,Punjab
+44,0,0,Iran/Taftan,Punjab
+37,0,1,Local - Social Contact,Sindh
+53,0,0,Iran/Taftan,Baluchistan
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Covid Relative,Khyber Pakhtunkhwa
+4,0,0,Unknown,Gilgit-Baltistan
+4,0,0,Unknown,Gilgit-Baltistan
+5,0,0,Unknown,Baluchistan
+4,1,0,Local - Social Contact,Sindh
+1,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Unknown,Federal Administration Tribal Area
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+2,0,0,Unknown,Punjab
+7,0,0,Iran/Taftan,Punjab
+1,0,0,Local - Social Contact,Gilgit-Baltistan
+8,0,0,Iran/Taftan,Gilgit-Baltistan
+16,0,0,Local - Social Contact,Sindh
+3,0,0,Unknown,Islamabad Capital Territory
+12,0,0,Iran/Taftan,Baluchistan
+39,0,0,Iran/Taftan,Sindh
+0,0,3,Local - Social Contact,Sindh
+25,0,0,Iran/Taftan,Gilgit-Baltistan
+6,0,0,Unknown,Punjab
+38,0,0,Iran/Taftan,Punjab
+1,0,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Punjab
+1,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+1,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+1,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+4,0,0,Local - Social Contact,Gilgit-Baltistan
+18,0,0,Local - Social Contact,Sindh
+23,0,0,Iran/Taftan,Sindh
+1,0,0,Unknown,Islamabad Capital Territory
+15,0,0,Unknown,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+43,0,0,Iran/Taftan,Punjab
+4,1,0,Unknown,Baluchistan
+7,0,0,Local - Social Contact,Sindh
+11,0,0,Iran/Taftan,Sindh
+1,0,0,Iran/Taftan,Sindh
+5,0,0,Iran/Taftan,Baluchistan
+16,1,0,Iran/Taftan,Gilgit-Baltistan
+25,0,0,Iran/Taftan,Punjab
+16,0,0,Local - Social Contact,Punjab
+1,0,0,Unknown,Khyber Pakhtunkhwa
+8,0,6,Local - Social Contact,Sindh
+8,0,0,Iran/Taftan,Sindh
+3,0,10,Local - Social Contact,Sindh
+5,0,0,Local - Social Contact,Gilgit-Baltistan
+37,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+1,0,0,Iran/Taftan,Federal Administration Tribal Area
+2,0,0,Unknown,Khyber Pakhtunkhwa
+2,0,0,Unknown,Baluchistan
+7,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+9,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Sindh
+21,1,2,Iran/Taftan,Punjab
+5,0,0,International Passenger,Islamabad Capital Territory
+3,0,0,Local - Social Contact,Sindh
+0,0,1,Local - Social Contact,Sindh
+9,0,0,Local - Social Contact,Baluchistan
+1,0,0,Unknown,Gilgit-Baltistan
+39,0,2,Unknown,Khyber Pakhtunkhwa
+1,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+1,0,0,Unknown,Khyber Pakhtunkhwa
+9,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+2,1,0,Iran/Taftan,Punjab
+18,0,1,Unknown,Punjab
+1,0,0,Local - Social Contact,Punjab
+12,0,0,Iran/Taftan,Baluchistan
+7,0,0,Unknown,Gilgit-Baltistan
+1,0,0,Dubai,Gilgit-Baltistan
+2,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Unknown,Azad Jummu Kashmir
+5,0,0,Unknown,Islamabad Capital Territory
+9,0,0,Local - Social Contact,Sindh
+6,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+12,0,0,Iran/Taftan,Baluchistan
+7,0,2,Unknown,Gilgit-Baltistan
+26,0,1,Unknown,Punjab
+16,0,0,Iran/Taftan,Punjab
+1,0,0,Local - Social Contact,Punjab
+16,0,0,Local - Social Contact,Punjab
+12,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+7,1,0,Iran/Taftan,Punjab
+2,0,0,Local - Social Contact,Islamabad Capital Territory
+11,0,1,Unknown,Gilgit-Baltistan
+5,0,0,Unknown,Gilgit-Baltistan
+7,0,0,Iran/Taftan,Sindh
+4,0,1,Local - Social Contact,Sindh
+7,0,0,Unknown,Khyber Pakhtunkhwa
+2,0,0,Unknown,Khyber Pakhtunkhwa
+3,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Unknown,Khyber Pakhtunkhwa
+3,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+34,0,0,Unknown,Khyber Pakhtunkhwa
+3,0,0,Unknown,Khyber Pakhtunkhwa
+2,0,0,Unknown,Khyber Pakhtunkhwa
+3,0,0,Unknown,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+30,2,1,Iran/Taftan,Punjab
+0,0,2,Unknown,Baluchistan
+1,0,0,Local - Social Contact,Punjab
+1,1,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Unknown,Khyber Pakhtunkhwa
+4,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+26,0,0,Iran/Taftan,Punjab
+14,0,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Punjab
+10,0,0,Local - Social Contact,Punjab
+5,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+29,0,0,Local - Social Contact,Punjab
+5,0,0,Local - Social Contact,Punjab
+21,0,0,Iran/Taftan,Punjab
+12,0,0,International Passenger,Islamabad Capital Territory
+25,1,0,Local - Social Contact,Sindh
+4,0,0,Local - Social Contact,Sindh
+5,0,0,Local - Social Contact,Baluchistan
+8,0,1,Local - Social Contact,Gilgit-Baltistan
+1,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Unknown,Khyber Pakhtunkhwa
+4,0,1,Local - Social Contact,Islamabad Capital Territory
+0,0,3,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+11,0,0,Local - Social Contact,Punjab
+5,0,0,Iran/Taftan,Punjab
+1,1,0,Local - Social Contact,Punjab
+4,0,0,Unknown,Azad Jummu Kashmir
+33,2,3,Local - Social Contact,Sindh
+0,1,0,Local - Social Contact,Gilgit-Baltistan
+5,0,0,Unknown,Gilgit-Baltistan
+2,0,0,Iran/Taftan,Gilgit-Baltistan
+3,0,0,Local - Social Contact,Gilgit-Baltistan
+2,0,0,Unknown,Gilgit-Baltistan
+1,1,0,Unknown,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,1,0,Unknown,Khyber Pakhtunkhwa
+8,0,1,Local - Social Contact,Islamabad Capital Territory
+11,0,1,Local - Social Contact,Punjab
+14,0,0,Unknown,Punjab
+8,0,0,Local - Social Contact,Punjab
+26,0,1,Iran/Taftan,Punjab
+21,4,2,Local - Social Contact,Sindh
+6,0,23,Local - Social Contact,Sindh
+6,0,0,Local - Social Contact,Baluchistan
+18,0,4,Unknown,Gilgit-Baltistan
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+3,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+1,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+16,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,0,Unknown,Islamabad Capital Territory
+0,3,0,Iran/Taftan,Punjab
+14,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+5,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+16,0,0,Local - Social Contact,Sindh
+0,0,10,Iran/Taftan,Sindh
+94,0,0,Tableeghi Jamaat,Sindh
+1,0,0,Local - Social Contact,Sindh
+14,0,17,Iran/Taftan,Baluchistan
+37,0,0,Unknown,Gilgit-Baltistan
+0,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+3,0,0,Unknown,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+10,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,5,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Iran/Taftan,Federal Administration Tribal Area
+4,1,10,Iran/Taftan,Khyber Pakhtunkhwa
+10,0,0,Unknown,Khyber Pakhtunkhwa
+13,0,0,International Passenger,Islamabad Capital Territory
+2,0,0,Unknown,Azad Jummu Kashmir
+1,0,0,Unknown,Azad Jummu Kashmir
+1,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Federal Administration Tribal Area
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,10,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+33,1,3,Local - Social Contact,Sindh
+2,0,0,Local - Social Contact,Punjab
+48,0,0,Local - Social Contact,Punjab
+7,1,0,Local - Social Contact,Punjab
+6,0,0,Local - Social Contact,Baluchistan
+28,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+16,0,0,Iran/Taftan,Punjab
+63,0,0,Iran/Taftan,Punjab
+27,0,0,Tableeghi Jamaat,Punjab
+3,0,0,Iran/Taftan,Punjab
+3,1,0,Unknown,Gilgit-Baltistan
+32,1,9,Local - Social Contact,Sindh
+0,1,0,Tableeghi Jamaat,Sindh
+0,0,2,Iran/Taftan,Sindh
+21,1,0,Unknown,Punjab
+4,0,0,Unknown,Islamabad Capital Territory
+5,0,0,Local - Social Contact,Baluchistan
+1,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+17,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,3,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+10,0,0,Local - Social Contact,Punjab
+6,0,0,Local - Social Contact,Punjab
+6,0,0,Iran/Taftan,Punjab
+27,0,0,Iran/Taftan,Punjab
+2,0,0,Iran/Taftan,Punjab
+1,0,1,Unknown,Gilgit-Baltistan
+1,0,0,Unknown,Gilgit-Baltistan
+1,0,0,Unknown,Gilgit-Baltistan
+6,0,0,Unknown,Islamabad Capital Territory
+40,3,0,Local - Social Contact,Sindh
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,0,0,Unknown,Baluchistan
+6,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+8,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+10,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+11,0,0,Local - Social Contact,Punjab
+5,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+11,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+12,0,0,Tableeghi Jamaat,Punjab
+3,0,0,Tableeghi Jamaat,Punjab
+100,0,0,Tableeghi Jamaat,Punjab
+7,0,0,Local - Social Contact,Islamabad Capital Territory
+6,3,0,Local - Social Contact,Khyber Pakhtunkhwa
+30,1,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Federal Administration Tribal Area
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,12,Local - Social Contact,Sindh
+10,0,0,Unknown,Baluchistan
+0,0,3,Iran/Taftan,Khyber Pakhtunkhwa
+3,0,0,Unknown,Azad Jummu Kashmir
+0,0,5,Unknown,Gilgit-Baltistan
+0,0,9,Unknown,Gilgit-Baltistan
+0,0,3,Unknown,Gilgit-Baltistan
+3,0,0,Local - Social Contact,Islamabad Capital Territory
+4,2,0,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,4,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,9,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Federal Administration Tribal Area
+0,0,1,Local - Social Contact,Federal Administration Tribal Area
+41,1,0,Local - Social Contact,Sindh
+2,0,0,Local - Social Contact,Azad Jummu Kashmir
+6,0,13,Unknown,Baluchistan
+17,0,7,Tableegi Jamaat,Gilgit-Baltistan
+31,0,0,Local - Social Contact,Punjab
+0,0,0,Local - Social Contact,Punjab
+47,0,0,Iran/Taftan,Punjab
+0,0,2,Iran/Taftan,Gilgit-Baltistan
+0,0,1,Dubai,Gilgit-Baltistan
+51,2,0,Local - Social Contact,Sindh
+0,0,130,Iran/Taftan,Sindh
+3,0,31,Local - Social Contact,Baluchistan
+20,3,0,Local - Social Contact,Punjab
+77,0,0,Jail,Punjab
+1,0,0,Local - Social Contact,Gilgit-Baltistan
+0,0,11,Local - Social Contact,Gilgit-Baltistan
+1,0,0,Local - Social Contact,Azad Jummu Kashmir
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Iran/Taftan,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+14,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+15,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+9,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+24,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Federal Administration Tribal Area
+1,1,0,Local - Social Contact,Islamabad Capital Territory
+0,0,0,Tableeghi Jamaat,Punjab
+54,1,16,Local - Social Contact,Sindh
+11,0,27,Local - Social Contact,Sindh
+12,0,3,Local - Social Contact,Baluchistan
+0,0,28,Local - Social Contact,Gilgit-Baltistan
+1,0,2,Local - Social Contact,Gilgit-Baltistan
+0,0,1,Iran/Taftan,Khyber Pakhtunkhwa
+7,1,4,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+0,0,1,Local - Social Contact,Federal Administration Tribal Area
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Azad Jummu Kashmir
+49,2,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+15,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+12,0,0,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Punjab
+0,0,2,Local - Social Contact,Punjab
+0,0,4,Local - Social Contact,Punjab
+17,0,0,Local - Social Contact,Punjab
+6,0,0,Local - Social Contact,Punjab
+13,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+0,0,6,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+50,1,1,Local - Social Contact,Sindh
+6,0,0,Local - Social Contact,Sindh
+2,0,0,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+7,0,0,Local - Social Contact,Sindh
+4,0,0,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+12,0,0,Local - Social Contact,Sindh
+2,0,0,Local - Social Contact,Sindh
+42,1,0,Tableeghi Jamaat,Sindh
+0,0,18,Iran/Taftan,Sindh
+8,1,10,Local - Social Contact,Baluchistan
+1,0,20,Local - Social Contact,Gilgit-Baltistan
+0,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+12,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Federal Administration Tribal Area
+4,0,0,Local - Social Contact,Federal Administration Tribal Area
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,48,Iran/Taftan,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+10,0,0,Local - Social Contact,Azad Jummu Kashmir
+35,0,7,Local - Social Contact,Islamabad Capital Territory
+0,0,5,Iran/Taftan,Punjab
+213,1,0,Tableeghi Jamaat,Punjab
+18,0,0,Tableeghi Jamaat,Punjab
+366,0,0,Tableeghi Jamaat,Punjab
+12,0,0,Jail,Punjab
+0,0,18,Local - Social Contact,Sindh
+92,1,0,Unknown,Sindh
+0,0,69,Iran/Taftan,Sindh
+7,0,0,Local - Social Contact,Baluchistan
+2,0,0,Local - Social Contact,Gilgit-Baltistan
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+10,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+15,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+5,0,0,Local - Social Contact,Azad Jummu Kashmir
+23,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+0,0,1,Local - Social Contact,Punjab
+0,0,1,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Punjab
+6,0,0,Local - Social Contact,Punjab
+0,0,7,Local - Social Contact,Punjab
+0,0,1,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+17,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+0,0,4,Local - Social Contact,Punjab
+6,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+85,1,9,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+1,0,13,Local - Social Contact,Baluchistan
+0,0,14,Local - Social Contact,Gilgit-Baltistan
+0,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,3,Local - Social Contact,Federal Administration Tribal Area
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,1,0,Tableegi Jamaat,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+2,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+8,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,1,2,Tableegi Jamaat,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,2,Iran/Taftan,Khyber Pakhtunkhwa
+0,0,0,Local - Social Contact,Azad Jummu Kashmir
+10,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+0,0,5,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+1,0,10,Local - Social Contact,Gilgit-Baltistan
+0,0,11,Local - Social Contact,Gilgit-Baltistan
+1,0,0,Local - Social Contact,Azad Jummu Kashmir
+8,0,6,Local - Social Contact,Baluchistan
+5,4,1,Local - Social Contact,Khyber Pakhtunkhwa
+5,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,4,Local - Social Contact,Khyber Pakhtunkhwa
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+84,6,0,Local - Social Contact,Sindh
+3,0,0,Local - Social Contact,Sindh
+17,0,0,Local - Social Contact,Sindh
+29,3,0,Local - Social Contact,Punjab
+1,0,0,Tableeghi Jamaat,Punjab
+30,0,0,Local - Social Contact,Punjab
+7,0,0,Tableeghi Jamaat,Punjab
+5,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+16,0,0,Local - Social Contact,Punjab
+0,0,2,Local - Social Contact,Punjab
+47,0,0,Unknown,Punjab
+1,0,3,Local - Social Contact,Islamabad Capital Territory
+79,2,18,Unknown,Sindh
+14,0,0,Unknown,Sindh
+9,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+6,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Federal Administration Tribal Area
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+10,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+0,0,2,Local - Social Contact,Federal Administration Tribal Area
+8,0,0,Local - Social Contact,Baluchistan
+6,0,1,Local - Social Contact,Azad Jummu Kashmir
+32,2,25,Local - Social Contact,Punjab
+19,0,0,Local - Social Contact,Punjab
+0,0,175,Local - Social Contact,Punjab
+6,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+19,0,0,Local - Social Contact,Punjab
+6,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+12,0,0,Local - Social Contact,Islamabad Capital Territory
+9,0,0,Jail,Punjab
+0,1,0,Unknown,Punjab
+0,0,233,Tableeghi Jamaat,Punjab
+60,0,0,Local - Social Contact,Punjab
+39,1,30,Unknown,Sindh
+1,0,0,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+0,1,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,1,1,Local - Social Contact,Khyber Pakhtunkhwa
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+9,0,0,Local - Social Contact,Federal Administration Tribal Area
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+31,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Federal Administration Tribal Area
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Azad Jummu Kashmir
+1,0,0,Local - Social Contact,Baluchistan
+10,0,6,Local - Social Contact,Gilgit-Baltistan
+0,0,5,Local - Social Contact,Gilgit-Baltistan
+0,0,11,Local - Social Contact,Gilgit-Baltistan
+0,0,2,Local - Social Contact,Gilgit-Baltistan
+17,0,0,Local - Social Contact,Baluchistan
+66,3,0,Local - Social Contact,Sindh
+0,1,3,Local - Social Contact,Sindh
+0,0,1,Iran/Taftan,Sindh
+22,3,0,Unknown,Khyber Pakhtunkhwa
+4,0,0,Unknown,Khyber Pakhtunkhwa
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+11,0,7,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+1,0,5,Local - Social Contact,Khyber Pakhtunkhwa
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Federal Administration Tribal Area
+0,0,3,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,3,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,4,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,3,Local - Social Contact,Khyber Pakhtunkhwa
+35,4,0,Unknown,Punjab
+45,0,0,Local - Social Contact,Punjab
+13,0,0,Local - Social Contact,Punjab
+44,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+22,0,0,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+11,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+15,0,0,Local - Social Contact,Punjab
+5,0,0,Local - Social Contact,Punjab
+36,0,0,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+9,0,0,Local - Social Contact,Punjab
+22,0,0,Local - Social Contact,Punjab
+5,0,0,Local - Social Contact,Punjab
+35,0,0,Local - Social Contact,Punjab
+52,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+47,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+11,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+14,0,0,Local - Social Contact,Punjab
+10,0,0,Tableeghi Jamaat,Punjab
+9,0,0,Local - Social Contact,Islamabad Capital Territory
+3,0,0,Unknown,Azad Jummu Kashmir
+0,0,19,Local - Social Contact,Gilgit-Baltistan
+3,0,0,Local - Social Contact,Gilgit-Baltistan
+2,0,0,Local - Social Contact,Gilgit-Baltistan
+6,0,2,Local - Social Contact,Gilgit-Baltistan
+0,0,1,Local - Social Contact,Gilgit-Baltistan
+33,1,13,Unknown,Baluchistan
+1,0,0,Local - Social Contact,Sindh
+7,0,0,Local - Social Contact,Sindh
+28,0,0,Local - Social Contact,Sindh
+20,0,104,Tableeghi Jamaat,Sindh
+94,5,27,Local - Social Contact,Sindh
+0,1,0,Iran/Taftan,Sindh
+38,4,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,3,Iran/Taftan,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,3,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Federal Administration Tribal Area
+0,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Khyber Pakhtunkhwa
+20,0,0,Local - Social Contact,Punjab
+10,0,0,Local - Social Contact,Punjab
+0,0,28,Local - Social Contact,Punjab
+0,0,1,Local - Social Contact,Punjab
+24,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+21,0,0,Local - Social Contact,Punjab
+10,0,0,Local - Social Contact,Punjab
+9,0,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Punjab
+24,2,59,Local - Social Contact,Baluchistan
+5,0,0,Local - Social Contact,Islamabad Capital Territory
+22,2,1,Local - Social Contact,Khyber Pakhtunkhwa
+1,1,4,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+3,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,3,Local - Social Contact,Khyber Pakhtunkhwa
+2,0,0,Local - Social Contact,Federal Administration Tribal Area
+4,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+5,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+1,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+7,0,0,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,1,Local - Social Contact,Federal Administration Tribal Area
+0,0,2,Local - Social Contact,Khyber Pakhtunkhwa
+0,0,3,Local - Social Contact,Khyber Pakhtunkhwa
+8,0,6,Unknown,Gilgit-Baltistan
+0,7,112,Unknown,Punjab
+24,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+21,0,0,Local - Social Contact,Punjab
+86,0,0,Unknown,Punjab
+3,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+48,0,0,Unknown,Punjab
+4,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+10,0,0,Tableeghi Jamaat,Punjab
+21,0,0,Local - Social Contact,Punjab
+70,4,16,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+10,0,0,Local - Social Contact,Sindh
+3,0,0,Local - Social Contact,Sindh
+73,0,0,Unknown,Sindh
+52,0,0,Unknown,Sindh
+96,0,0,Unknown,Sindh
+4,0,0,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+12,0,0,Local - Social Contact,Sindh
+5,0,0,Local - Social Contact,Sindh
+3,0,0,Local - Social Contact,Sindh
+2,0,0,Local - Social Contact,Sindh
+2,0,0,Local - Social Contact,Sindh
+53,0,0,Unknown,Sindh
+9,0,0,Local - Social Contact,Islamabad Capital Territory
+123,2,3,Unknown,Sindh
+0,0,2,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+2,0,0,Local - Social Contact,Sindh
+1,0,0,Local - Social Contact,Sindh
+6,0,0,Local - Social Contact,Sindh
+28,0,0,Unknown,Sindh
+73,0,0,Unknown,Sindh
+1,0,0,Local - Social Contact,Sindh
+2,0,0,Local - Social Contact,Azad Jummu Kashmir
+5,0,9,Local - Social Contact,Gilgit-Baltistan
+6,0,0,Unknown,Baluchistan
+41,0,0,Local - Social Contact,Baluchistan
+24,2,0,Local - Social Contact,Punjab
+20,0,0,Local - Social Contact,Punjab
+10,0,0,Local - Social Contact,Punjab
+9,0,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Punjab
+20,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Punjab
+95,0,0,Tableeghi Jamaat,Punjab
+9,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+4,0,0,Local - Social Contact,Punjab
+9,1,2,Local - Social Contact,Islamabad Capital Territory
+138,1,11,Unknown,Sindh
+0,0,273,Iran/Taftan,Sindh
+84,5,0,Unknown,Khyber Pakhtunkhwa
+7,0,1,Local - Social Contact,Gilgit-Baltistan
+8,0,0,Local - Social Contact,Baluchistan
+2,0,25,India,Punjab
+5,4,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+8,0,0,Local - Social Contact,Islamabad Capital Territory
+0,0,29,Tableeghi Jamaat,Punjab
+182,8,0,Unknown,Sindh
+1,0,0,Local - Social Contact,Azad Jummu Kashmir
+6,0,1,Local - Social Contact,Gilgit-Baltistan
+60,10,0,Local - Social Contact,Khyber Pakhtunkhwa
+56,0,0,Local - Social Contact,Baluchistan
+3,0,0,Jail,Punjab
+36,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+0,0,4,Local - Social Contact,Punjab
+15,0,0,Local - Social Contact,Punjab
+32,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+2,0,0,Local - Social Contact,Punjab
+29,0,0,Local - Social Contact,Punjab
+13,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
+23,0,0,Local - Social Contact,Punjab
+0,0,1,Local - Social Contact,Punjab
+7,0,0,Local - Social Contact,Punjab
+0,0,4,Local - Social Contact,Punjab
+76,0,0,Local - Social Contact,Punjab
+5,0,0,Local - Social Contact,Punjab
+5,0,0,Local - Social Contact,Punjab
+3,0,0,Local - Social Contact,Punjab
+1,0,0,Local - Social Contact,Punjab
